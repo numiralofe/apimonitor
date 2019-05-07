@@ -1,0 +1,18 @@
+{
+    "services": [
+        {
+            "name": "myserviceURL",
+            "type": "service",
+            "return_code": "200",
+            "return_msg": "myserviceOK",
+            "url": "https://myservice.myurl.com/"
+        },              
+        {
+            "name": "anotherserviceURL",
+            "type": "service",
+            "return_code": "200",
+            "return_msg": "anotherserviceOK",
+            "url": "https://anotherservice.myurl.com/"
+        }                    
+    ]
+}
